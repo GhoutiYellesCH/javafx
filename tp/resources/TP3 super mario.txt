@@ -1,0 +1,24 @@
+
+TP super Mario
+
+Ajouter un arrière plan 
+Ajouter le personnage
+Ajouter les boutons (droite, gauche, haut, bas)
+Ajouter des translations au clic
+Ajouter un menu (nouvelle partie)
+Ajouter les évènements claviers pour (droite,gauche, haut, bas)
+
+Ajouter les objets (coin, star)
+ajouter un compteur pour calculer le nombre de pièces utilisées
+Ajouter une rotation au moment de toucher l'étoile et accélerer la vitesse la translation
+
+Ajouter l'objet champignon, au moment de toucher, la taille du personnage devient plus grande pour une durée limitée
+Ajouter l'objet oiseau, au moment de toucher, la partie est perdue ou la taille du personnage devient normale (si champignon activé)
+
+Ajouter un scroll de l'arrière plan
+Ajouter les audios correspondants
+
+
+
+
+
